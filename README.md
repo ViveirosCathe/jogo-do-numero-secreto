@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura. O código em Javascript foi feito com base no acompanhamrento das aulas.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura. O código em Javascript foi feito por Catherine com base no acompanhamrento das aulas.</p>
 
 ## �� Tecnologias
 <div>
